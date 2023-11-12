@@ -10,7 +10,7 @@ This program will brute force any Instagram account you send it its way given a 
 It motivates me to keep updating this program.
 
 
-> **PayPal:** shobhitstthakur105@gmail.com
+
 
 ## Requirements
 
